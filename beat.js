@@ -1,5 +1,5 @@
 
-const beat = () => console.log("DrumDynamo Leo's Beat: Drum Roll");
+
 
 const beat = () => {
     console.log("DJ Kalikote's Beat: Funky Groove");
