@@ -1,2 +1,2 @@
-const beat = () => console.log("DJ Kalikote's Beat: Funky Groove");
+const beat = () => console.log("BeatMaster Alex's Beat: Heavy Kick");
 beat();
