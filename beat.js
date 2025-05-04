@@ -1,2 +1,2 @@
-const beat = () => console.log("SynthSorcerer Maya's Beat: Synth Pulse");
+const beat = () => console.log("DrumDynamo Leo's Beat: Drum Roll");
 beat();
